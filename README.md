@@ -76,7 +76,7 @@ sudo nano /etc/zabbix/zabbix_server.conf
 
 Altere as seguintes linhas:
 ```conf
-DBPassword=SENHA_FORTE
+DBPassword=(Sua Senha)
 ```
 
 ---
